@@ -40,10 +40,9 @@ Mica
 
 Acrylic
 
-![image](https://github.com/ikoshura/Fluent-Npp/assets/100127946/b9f6aba0-b538-459a-80f5-eb183eb9384b)
+![image](https://github.com/ikoshura/Fluent-Npp/assets/100127946/63b0719d-0d0f-4bfe-976c-c6153204f109)
 
 Tabbed
 
-![image](https://github.com/ikoshura/Fluent-Npp/assets/100127946/e79e6f6e-f3dc-4292-8346-4c8fc34c0700)
-
+![image](https://github.com/ikoshura/Fluent-Npp/assets/100127946/779b1094-f127-4ec1-a7f1-d8ac5bf35f2c)
 

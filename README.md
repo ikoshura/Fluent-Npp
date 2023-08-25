@@ -12,7 +12,7 @@ Installation
 4. Place downloaded **.xml** file inside the folder.
 2. Restart Notepad++.
 3. Open *Settings -> Style Configurator*.
-4. Select **VS2019-Mica** from the theme drop-down box.
+4. Select **Fluent** from the theme drop-down box.
 5. Click **Save & Close**.
 6. Open *Settings -> Preferences -> Dark Mode*.
 7. Customize *Top* tone color to *Black** or *#000000*.

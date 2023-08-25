@@ -25,6 +25,7 @@ Apply Mica Effect
 
 Screenshot
 ----------
+Mica
 
 ![Screenshot](https://github.com/ikoshura/Fluent-Npp/assets/100127946/626f2a81-7468-49ba-b3fb-2fdce08630c8)
 
@@ -36,4 +37,13 @@ Screenshot
 
 
 ![Screenshot](https://i.ibb.co/6v0BFhD/Screenshot-2023-08-25-072718.png)
+
+Acrylic
+
+![image](https://github.com/ikoshura/Fluent-Npp/assets/100127946/b9f6aba0-b538-459a-80f5-eb183eb9384b)
+
+Tabbed
+
+![image](https://github.com/ikoshura/Fluent-Npp/assets/100127946/e79e6f6e-f3dc-4292-8346-4c8fc34c0700)
+
 

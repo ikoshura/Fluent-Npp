@@ -15,7 +15,7 @@ Installation
 4. Select **Fluent** from the theme drop-down box.
 5. Click **Save & Close**.
 6. Open *Settings -> Preferences -> Dark Mode*.
-7. Customize *Top* tone color to *Black** or *#000000*.
+7. Customize **Top** tone color to **Black** or **#000000**.
 8. Close.
 
 Apply Mica Effect

@@ -6,7 +6,7 @@ This version is built on top of https://github.com/hellon8/VS2019-Dark-Npp, givi
 Installation
 --------------------------
 0. If you haven't already, turn on Notepad++ dark mode in *Preferences -> Dark Mode* to a better look and feel.
-1. **Right Click** [`HERE`](https://raw.githubusercontent.com/ikoshura/Fluent-Npp/master/VS2019-Mica.xml) and select **Save As** to download the theme.
+1. **Right Click** [`HERE`](https://raw.githubusercontent.com/ikoshura/Fluent-Npp/main/Fluent.xml) and select **Save As** to download the theme.
 2. Go to **%APPDATA%\Notepad++**.
 3. Open **themes** folder, create a new folder named **themes** if it doesn't exists.
 4. Place downloaded **.xml** file inside the folder.
@@ -33,5 +33,3 @@ Screenshot
 
 ![Screenshot](https://i.ibb.co/6v0BFhD/Screenshot-2023-08-25-072718.png)
 
-
-![Screenshot](https://i.ibb.co/TKT4WVs/Screenshot-2023-08-25-072826.png)

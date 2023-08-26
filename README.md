@@ -1,6 +1,8 @@
 # Fluent-Npp
 Fluent-Npp takes the awesome dark theme from Visual Studio and brings it to Notepad++, it also includes a stylish touch with the addition of Mica effect. The main goal is to make switching between files in Visual Studio and Notepad++ seamless. 
 
+![Fluent-Npp](https://github.com/ikoshura/Fluent-Npp/assets/100127946/bb0022c9-eb43-464d-b518-28f934d16571)
+
 This version is built on top of https://github.com/hellon8/VS2019-Dark-Npp, giving credit to the original version at https://github.com/SeanCline/Npp-VS2012-Dark. The focus of these enhancements is to improve readability, contrast, differentiation among different types of keywords and adding mica effect.
 
 Installation

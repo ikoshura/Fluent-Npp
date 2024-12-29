@@ -7,7 +7,7 @@ This version is based on [VS2019-Dark-Npp](https://github.com/hellon8/VS2019-Dar
 
 ## Installation
 
-### Quick Setup:
+### Initial Setup:
 0. If you haven't already, enable **Dark Mode** in Notepad++ by going to *Preferences -> Dark Mode* for a better overall look.
 1. **Right-click** [`HERE`](https://raw.githubusercontent.com/ikoshura/Fluent-Npp/main/Fluent.xml) and select **Save As** to download the theme file.
 2. Go to **%APPDATA%\Notepad++**.

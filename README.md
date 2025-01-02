@@ -12,11 +12,11 @@ This version is based on [VS2019-Dark-Npp](https://github.com/hellon8/VS2019-Dar
 1. **Right-click** [`HERE`](https://raw.githubusercontent.com/ikoshura/Fluent-Npp/main/Fluent.xml) and select **Save As** to download the theme file.
 2. Go to `%APPDATA%\Notepad++`
 3. Open the `themes` folder (create one if it doesn’t exist).
-4. Place the downloaded **.xml** file into this folder.
+4. Place the downloaded `.xml` file into this folder.
 5. Restart Notepad++.
 6. Go to `Settings -> Style Configurator`
 7. Select `Fluent` from the theme dropdown.
-8. Click **Save & Close**.
+8. Click `Save` & Close.
 9. Go to `Settings -> Preferences -> Dark Mode`
 10. Set the `Top` tone color to `Black` or `#000000`
 11. Close the preferences.

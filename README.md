@@ -10,20 +10,20 @@ This version is based on [VS2019-Dark-Npp](https://github.com/hellon8/VS2019-Dar
 ### Initial Setup:
 0. If you haven't already, enable **Dark Mode** in Notepad++ by going to *Preferences -> Dark Mode* for a better overall look.
 1. **Right-click** [`HERE`](https://raw.githubusercontent.com/ikoshura/Fluent-Npp/main/Fluent.xml) and select **Save As** to download the theme file.
-2. Go to **%APPDATA%\Notepad++**.
-3. Open the **themes** folder (create one if it doesn’t exist).
+2. Go to `%APPDATA%\Notepad++`
+3. Open the `themes` folder (create one if it doesn’t exist).
 4. Place the downloaded **.xml** file into this folder.
 5. Restart Notepad++.
-6. Go to *Settings -> Style Configurator*.
-7. Select **Fluent** from the theme dropdown.
+6. Go to `Settings -> Style Configurator`
+7. Select `Fluent` from the theme dropdown.
 8. Click **Save & Close**.
-9. Go to *Settings -> Preferences -> Dark Mode*.
-10. Set the **Top** tone color to **Black** or **#000000**.
+9. Go to `Settings -> Preferences -> Dark Mode`
+10. Set the `Top` tone color to `Black` or `#000000`
 11. Close the preferences.
 
 ### Apply Mica Effect:
 1. Install the [Npp-DarkNpp plugin](https://github.com/ozone10/Npp-DarkNpp).
-2. Open *Plugins -> DarkNpp -> Mica* to enable the effect.
+2. Open `Plugins -> DarkNpp -> Mica` to enable the effect.
 
 ## Screenshots
 

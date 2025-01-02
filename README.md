@@ -16,7 +16,7 @@ This version is based on [VS2019-Dark-Npp](https://github.com/hellon8/VS2019-Dar
 5. Restart Notepad++.
 6. Go to `Settings -> Style Configurator`
 7. Select `Fluent` from the theme dropdown.
-8. Click `Save` & Close.
+8. Click `Save & Close`
 9. Go to `Settings -> Preferences -> Dark Mode`
 10. Set the `Top` tone color to `Black` or `#000000`
 11. Close the preferences.

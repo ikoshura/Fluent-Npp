@@ -31,6 +31,8 @@ This version is based on [VS2019-Dark-Npp](https://github.com/hellon8/VS2019-Dar
 
 ![Screenshot](https://github.com/ikoshura/Fluent-Npp/assets/100127946/626f2a81-7468-49ba-b3fb-2fdce08630c8)
 
+<details closed>
+
 ![Screenshot](https://i.ibb.co/SX1Xrxk/Screenshot-2023-08-25-073020.png)
 
 ![Screenshot](https://i.ibb.co/LRxX1wJ/Screenshot-2023-08-25-073000.png)
@@ -44,3 +46,5 @@ This version is based on [VS2019-Dark-Npp](https://github.com/hellon8/VS2019-Dar
 ### Tabbed View
 
 ![image](https://github.com/ikoshura/Fluent-Npp/assets/100127946/779b1094-f127-4ec1-a7f1-d8ac5bf35f2c)
+
+<details>

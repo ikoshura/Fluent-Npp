@@ -47,4 +47,4 @@ This version is based on [VS2019-Dark-Npp](https://github.com/hellon8/VS2019-Dar
 
 ![image](https://github.com/ikoshura/Fluent-Npp/assets/100127946/779b1094-f127-4ec1-a7f1-d8ac5bf35f2c)
 
-<details>
+</details>

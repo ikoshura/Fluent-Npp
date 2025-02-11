@@ -18,7 +18,7 @@ This version is based on [VS2019-Dark-Npp](https://github.com/hellon8/VS2019-Dar
 7. Select `Fluent` from the theme dropdown.
 8. Click `Save & Close`
 9. Go to `Settings -> Preferences -> Dark Mode`
-10. Set the `Top` tone color to `Black` or `#000000`
+10. Set the `Top` and `Main` tone color to `Black` or `#000000`
 11. Close the preferences.
 
 ### Apply Mica Effect:
